@@ -1,0 +1,32 @@
+{
+    "collections": {
+        "Rocks": {
+            "link": [
+                {
+                    "file": "//../envs/rocks.blend",
+                    "prefix": "EN-rock_s_"
+                },
+                {
+                    "file": "//../envs/rocks.blend",
+                    "prefix":"EN-rock_smooth_"
+                }
+            ]
+        },
+        "Plants": {
+            "link": [
+                {
+                    "file": "//../envs/desert_plants.blend",
+                    "prefix": "EN-cactus_fork."
+                },
+                {
+                    "file": "//../envs/desert_plants.blend",
+                    "prefix":"EN-cactus_elements."
+                },
+                {
+                    "file": "//../envs/desert_plants.blend",
+                    "prefix": "EN-cactus_fork."
+                }
+            ]
+        }
+    }
+}
