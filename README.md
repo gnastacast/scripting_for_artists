@@ -37,7 +37,7 @@ You can see all available icons by enabling the Icon Viewer add-on and clicking 
 
 While hovering over an operator in a menu, you can press CTRL+C to copy the python operator to your clipboard
 
-# Tips from [Q&A](https://www.youtube.com/watch?v=Iupx9zP4boM)
+## Tips from [Q&A](https://www.youtube.com/watch?v=Iupx9zP4boM)
 
 Custom properties added in the UI can be set as ints if you type an int in the box, and typing in an array such as `[1.0,1.0,1.0]` allows you to make properties that are colors, euler angles, and more.
 
@@ -95,7 +95,7 @@ You can append things to menus and headers but you can't change the sorting.
 
 [HTML mockups](https://github.com/venomgfx/blender-ui) are useful for proposing changes to the UI
 
-# Tips from [Roast my Add-on](https://www.youtube.com/watch?v=_8KsNVE6KJs)
+## Tips from [Roast my Add-on](https://www.youtube.com/watch?v=_8KsNVE6KJs)
 
 * Give your github repository a concise useful description
 * README files should say which versions of blender this add-on is compatible with as well as the add-on's capabilities and limitations
@@ -118,7 +118,7 @@ You can append things to menus and headers but you can't change the sorting.
 * Comments should indicate whether a function modifies its input or returns a modified copy.
 * Use Blender's naming conventions to make your source files easy to find.
 
-# Tips from [Roast of Nature Clicker](https://www.youtube.com/watch?v=uBDc0Eq70kM)
+## Tips from [Roast of Nature Clicker](https://www.youtube.com/watch?v=uBDc0Eq70kM)
 
 * Comments can be multiple lines and should be split up to keep them on one page.
 * Comments should have a space after the \# symbol and start with a capital letter.
