@@ -37,6 +37,8 @@ You can see all available icons by enabling the Icon Viewer add-on and clicking 
 
 While hovering over an operator in a menu, you can press CTRL+C to copy the python operator to your clipboard
 
+Modal operators change how blender behaves in that mode. They can completely take over the interface and use all inputs or just wait for certain kinds.
+
 ## Tips from [Q&A](https://www.youtube.com/watch?v=Iupx9zP4boM)
 
 Custom properties added in the UI can be set as ints if you type an int in the box, and typing in an array such as `[1.0,1.0,1.0]` allows you to make properties that are colors, euler angles, and more.
