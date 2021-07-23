@@ -4,7 +4,10 @@
 
 ## Useful tips
 
-In your blender preferences, under Interface, make sure to check python tooltips and Developer Extras 
+In your blender preferences, under Interface, make sure to check python tooltips and Developer Extras
+
+If your operator is not showing up in the f3 menu:
+https://developer.blender.org/T80345
 
 ALT+S saves the text file, CTRL+S saves the blend file
 
